@@ -3,15 +3,15 @@ This is the classic game of snakes, in which the player controls a snake and eat
 
 ## Features
 * Ability to increase/decrease speed of the snake right in the middle of the game !
-* No limit on the length of the snake
+* No limit on the length of the snake.
 * Dynamic scoring system based on the speed of the snake, more the speed more the score.
 * Dynamic growing system based on the speed of the snake, more the speed more the grow.
 
 ## Built with
-This game is coded in C using OpenGL libraries for the games graphics.
+This game is coded in C using OpenGL libraries for the game's graphics.
 
 ## How to run the game
-Since the game uses OpenGL, make sure you have OpneGl/GLUT libraries set up in your environment. An example is given below in Linux(Ubuntu) on how to install these libraries:
+Since the game uses OpenGL, make sure you have OpenGl / GLUT libraries set up in your environment. An example is given below in Linux(Ubuntu) on how to install these libraries:
 
 Open up a terminal and execute the following commands:
 ```
